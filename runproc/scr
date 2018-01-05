@@ -1,0 +1,2 @@
+echo "LOL"
+echo `pwd`
